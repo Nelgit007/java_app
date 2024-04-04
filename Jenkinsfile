@@ -12,7 +12,7 @@ pipeline{
             gitCheckout(
 
                 branch: "main",
-                url: "https://github.com/Nelgit007/Java_Application.git"
+                url: "https://github.com/Nelgit007/java_app.git"
             )
             }
         }
